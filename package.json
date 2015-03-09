@@ -1,5 +1,5 @@
 {
-  "name": "gulp-her-beforeCompile",
+  "name": "gulp-her-beforecompile",
   "version": "0.0.1",
   "description": "wrap each vinly file to her file,depends gulp-her-kernel",
   "author": {
